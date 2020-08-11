@@ -1,0 +1,9 @@
+C:\Users\Giovan\source\repos\JogoDaMemoria_1CD\JogoDaMemoria_1CD\bin\Debug\JogoDaMemoria_1CD.exe
+C:\Users\Giovan\source\repos\JogoDaMemoria_1CD\JogoDaMemoria_1CD\bin\Debug\JogoDaMemoria_1CD.pdb
+C:\Users\Giovan\source\repos\JogoDaMemoria_1CD\JogoDaMemoria_1CD\obj\Debug\JogoDaMemoria_1CD.csprojAssemblyReference.cache
+C:\Users\Giovan\source\repos\JogoDaMemoria_1CD\JogoDaMemoria_1CD\obj\Debug\JogoDaMemoria_1CD.Form1.resources
+C:\Users\Giovan\source\repos\JogoDaMemoria_1CD\JogoDaMemoria_1CD\obj\Debug\JogoDaMemoria_1CD.Properties.Resources.resources
+C:\Users\Giovan\source\repos\JogoDaMemoria_1CD\JogoDaMemoria_1CD\obj\Debug\JogoDaMemoria_1CD.csproj.GenerateResource.cache
+C:\Users\Giovan\source\repos\JogoDaMemoria_1CD\JogoDaMemoria_1CD\obj\Debug\JogoDaMemoria_1CD.csproj.CoreCompileInputs.cache
+C:\Users\Giovan\source\repos\JogoDaMemoria_1CD\JogoDaMemoria_1CD\obj\Debug\JogoDaMemoria_1CD.exe
+C:\Users\Giovan\source\repos\JogoDaMemoria_1CD\JogoDaMemoria_1CD\obj\Debug\JogoDaMemoria_1CD.pdb
